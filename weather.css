@@ -19,3 +19,19 @@ body{
     display:flex;
     justify-content:center;
 }
+#info{
+    margin-top:30px;
+    display:block;
+    text-align:center;
+
+}
+#listInfo{
+    list-style-type: none;
+    font-size:20px;
+    margin:0;
+    padding:0;
+}
+img{
+    margin-top:30px;
+    font-size:25px;
+}
