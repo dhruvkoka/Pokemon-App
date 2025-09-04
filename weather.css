@@ -1,0 +1,21 @@
+body{
+    background-color:lightblue;
+}
+#title{
+    text-align:center;
+    margin-top:30px;
+    color:yellow;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+#city{
+    padding:15px;
+    font-size:15px;
+
+
+}
+#citydivide{
+    display:flex;
+    justify-content:center;
+}
