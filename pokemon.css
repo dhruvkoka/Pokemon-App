@@ -9,7 +9,7 @@ body{
     font-weight: bold;
 
 }
-#city{
+#pokemon{
     padding:15px;
     font-size:15px;
 
@@ -36,6 +36,8 @@ img{
     font-size:25px;
     width:150px;
     height:150px;
+    display:block;
+    margin:0 auto;
 }
 #btn{
     margin-left:15px;
